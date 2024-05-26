@@ -1,0 +1,1 @@
+scrapy crawl fs -a parser=product_links -o fs_product_links.json > fs_product_links.out

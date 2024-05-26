@@ -1,0 +1,1 @@
+scrapy parse $1 -a parser=magellan -c parse_properties --nocolour

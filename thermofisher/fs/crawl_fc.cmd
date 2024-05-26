@@ -1,0 +1,1 @@
+scrapy crawl fs -a parser=featured_collections -o data/results/fs_featured_collections.json > data/results/fs_featured_collections.out

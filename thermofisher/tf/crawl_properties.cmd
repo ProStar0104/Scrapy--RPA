@@ -1,0 +1,1 @@
+scrapy crawl tf -a parser=properties -o properties.json > properties.out

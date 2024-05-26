@@ -1,0 +1,2 @@
+# Run monthly CQ-PDP crawl
+@monthly cd /home/ec2-user/dev/Steven/crawler/.scrapy ; sh del.sh ; cd ../scripts ; sh crawl_cq_pdp.sh

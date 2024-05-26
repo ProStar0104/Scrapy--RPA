@@ -1,0 +1,1 @@
+scrapy crawl tf -a parser=cq_pdp -o cq_pdp.json > cq_pdp.out

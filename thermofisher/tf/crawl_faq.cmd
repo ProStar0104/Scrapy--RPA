@@ -1,0 +1,1 @@
+scrapy crawl tf -a parser=faq -o faq.json > faq.out

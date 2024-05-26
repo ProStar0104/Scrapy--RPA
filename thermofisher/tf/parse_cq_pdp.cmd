@@ -1,0 +1,1 @@
+@scrapy parse %1 -a parser=cq_pdp -c parse_cq_to_pdp --nocolour

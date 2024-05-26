@@ -1,0 +1,1 @@
+scrapy crawl tf -a parser=text -o text.json > text.out

@@ -1,0 +1,1 @@
+@scrapy parse %1 -a parser=tools3p -c parse_tools3p --nocolour

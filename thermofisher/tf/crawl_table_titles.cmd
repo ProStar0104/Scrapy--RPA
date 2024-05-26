@@ -1,0 +1,1 @@
+scrapy crawl tf -a parser=table_titles -o table_titles.json > table_titles.out

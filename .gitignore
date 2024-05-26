@@ -1,0 +1,12 @@
+.vscode
+geckordriver/*
+runner.py
+__pycache__
+.scrapy/*
+*.json
+*.out
+geckodriver
+*.log
+*.txt
+debugger.py
+*.xlsx*
